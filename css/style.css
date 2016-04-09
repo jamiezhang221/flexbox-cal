@@ -1,0 +1,42 @@
+
+.container{
+	height: auto;
+	width:auto;
+	display: flex;
+	align-content: space-around;
+
+}
+
+.tagmag{
+	margin:auto;
+	padding-top: auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: space-between;
+	margin-top：100px;
+
+	width:98%;
+}
+
+.tm {
+	display: flex;
+	margin:5px;
+	width:80px;
+	height:80px;
+	border: 2px solid black;
+	border-radius:10px;
+	background-color: white;
+	
+}
+
+span{
+	margin:auto;
+}
+
+.taglist{
+	text-align: center;
+	font-size: 200%;
+	margin:auto;
+}
